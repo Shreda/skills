@@ -42,13 +42,7 @@ Loads a previous session summary to restore context. Supports:
 
 ## Installation
 
-Add this repository as a plugin source in Claude Code:
-
-```bash
-claude plugins add /path/to/skills
-```
-
-Or reference it directly in your Claude Code settings.
+![Installation](docs/installation.webp)
 
 ## Project Structure
 
