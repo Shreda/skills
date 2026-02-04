@@ -1,0 +1,13 @@
+{
+	"name": "skills",
+	"owner": {
+		"name": "Daniel Moore"
+	},
+	"plugins": [
+		{
+			"name": "sessions",
+			"description": "Save and resume Claude Code sessions. Create timestamped session summaries with /save-session and pick up where you left off with /resume-session.",
+			"source": "./plugins/sessions"
+		}
+	]
+}
